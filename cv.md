@@ -1,5 +1,4 @@
 # Azizjon Ikramov 
-***
 
 ### Contacts
 
