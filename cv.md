@@ -4,9 +4,9 @@
 
 * **Location:** Tashkent, Uzbekistan
 * **Phone:** +998977207899
-* **Telegram:** [@aziz_ikram](адрес "https://t.me/aziz_ikram")  
+* **Telegram:** [@aziz_ikram](https://t.me/aziz_ikram "")  
 * **Email:** azizjonikramov1@gmail.com
-* **GitHub:** [jonikramov](адрес "https://github.com/jonikramov")  
+* **GitHub:** [jonikramov](https://github.com/jonikramov "")  
 
 ### About myself:
 I want to learn Front-End Development in RSSchool!
