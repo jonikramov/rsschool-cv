@@ -1,1 +1,2 @@
-https://github.com/jonikramov/rsschool-cv/blob/gh-pages/cv.md
+https://jonikramov.github.io/rsschool-cv/cv
+https://jonikramov.github.io/rsschool-cv/
